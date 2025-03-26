@@ -1,8 +1,8 @@
 # Product-Analysis-using-SQL-Dataquest
 ## Project Description 
 The focus of this project is to analyze data from sales record database and extract key performance indicators (KPI)s that help make data driven decisions regarding the product. In this project, a model cars database is been analyzed, to derrive KPIs in order to understand which cars should be ordered less or more, how the company should tailor the communication and strategies to customer behavior and how much should be spent on acquiring new customers. 
-## Database 
-The relational ![database schema](Images/model_car_schema.png) shows how each tables are related. Each table includes the follwoing information. 
+## Database Schema
+![database schema](Images/model_car_schema.png) shows how each tables are related. Each table includes the follwoing information. 
     
 - **Customers**: customer data
 - **Employees**: all employee information
